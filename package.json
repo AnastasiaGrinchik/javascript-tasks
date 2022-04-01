@@ -1,0 +1,22 @@
+{
+  "name": "at-lab-js-bonus-tasks",
+  "version": "1.0.0",
+  "description": "Bonus tasks for modules 1-2",
+  "homepage": "https://git.epam.com/Aliaksandr_Yeutushkou/at-lab-js-bonus-tasks",
+  "author": "Aliaksandr Yeutushkou <aliaksandr_yeutushkou@epam.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@git.epam.com:Aliaksandr_Yeutushkou/at-lab-js-bonus-tasks.git"
+  },
+  "scripts": {
+    "test": "mocha test/specs/**.spec.js"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
